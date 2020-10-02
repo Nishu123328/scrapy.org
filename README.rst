@@ -1,9 +1,9 @@
-Scrapy website
+Scrapy website:
 ==============
 
 This is the website that runs on https://scrapy.org.
 
-Requirements
+Requirements:
 ============
 
 This website is made with `Jekyll`_. The most universal way to install it is::
